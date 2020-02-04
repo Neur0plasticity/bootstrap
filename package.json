@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrapping programs ... Loading the software for live / runtime code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neur0plasticity/bootstrap.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neur0plasticity/bootstrap/issues"
+  },
+  "homepage": "https://github.com/Neur0plasticity/bootstrap#readme"
+}
