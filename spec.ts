@@ -1,8 +1,9 @@
 console.warn("REFER to 'Codebrarian-namespace' for naming conventions");
 console.warn(`
-    * boot
-    * cold boot
-    * hot  boot
+    * boot      // base
+    * cold boot // boot everything
+    * hot  boot // fast boot
+    * reboot    // redo
 `);
 console.warn(`
     * before boot
